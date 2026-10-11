@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Agent Wire · Boyd's Grok Bot fleet</title>
+<meta name="theme-color" content="#050a0f">
+<meta name="description" content="Live-feeling visualization of Boyd's Grok Bot fleet message/tool/event wire — network ops + messenger rain. Offline snapshot from real local metadata.">
+<style>/*__CSS__*/</style>
+</head>
+<body>
+<div class="scanlines" aria-hidden="true"></div>
+<div class="glow" aria-hidden="true"></div>
+
+<header class="top">
+  <div class="brand">
+    <div class="logo" aria-hidden="true">
+      <svg viewBox="0 0 48 48" width="40" height="40">
+        <defs>
+          <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0" stop-color="#00ff9c"/><stop offset="1" stop-color="#00d4ff"/>
+          </linearGradient>
+        </defs>
+        <rect x="2" y="2" width="44" height="44" rx="10" fill="#0a1520" stroke="url(#g)" stroke-width="2"/>
+        <path d="M10 28 L18 14 L24 30 L30 12 L38 26" fill="none" stroke="url(#g)" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+        <circle cx="18" cy="14" r="2" fill="#00ff9c"/><circle cx="30" cy="12" r="2" fill="#00d4ff"/>
+      </svg>
+    </div>
+    <div>
+      <h1>Agent Wire</h1>
+      <p class="tag">Boyd's Grok Bot fleet · message / tool / event wire</p>
+    </div>
+  </div>
+  <div class="health" id="healthStrip" title="Health strip from collector snapshot"></div>
+</header>
+
+<nav class="tabs" role="tablist" aria-label="Views">
+  <button class="tab active" data-view="rain" role="tab" aria-selected="true">Wire Rain</button>
+  <button class="tab" data-view="graph" role="tab" aria-selected="false">Fleet Graph</button>
+  <button class="tab" data-view="cards" role="tab" aria-selected="false">Bot Cards</button>
+  <button class="tab" data-view="timeline" role="tab" aria-selected="false">Timeline</button>
+</nav>
+
+<main>
+  <section id="view-rain" class="view active" role="tabpanel">
+    <div class="panel-head">
+      <h2>Wire Rain</h2>
+      <p class="hint">Event chips from the collected snapshot — routine · tool · message · shell · browser</p>
+      <div class="controls">
+        <label><input type="checkbox" id="rainPause"> Pause</label>
+        <label>Speed <input type="range" id="rainSpeed" min="0.4" max="2.5" step="0.1" value="1"></label>
+        <span class="badge" id="rainBadge">0 chips</span>
+      </div>
+    </div>
+    <div class="rain-stage" id="rainStage">
+      <canvas id="rainCanvas" width="1400" height="720" aria-label="Animated wire rain"></canvas>
+      <div class="rain-legend">
+        <span class="lg routine">routine</span>
+        <span class="lg tool">tool</span>
+        <span class="lg message">message</span>
+        <span class="lg shell">shell</span>
+        <span class="lg browser">browser</span>
+        <span class="lg other">other</span>
+      </div>
+    </div>
+  </section>
+
+  <section id="view-graph" class="view" role="tabpanel" hidden>
+    <div class="panel-head">
+      <h2>Fleet Graph</h2>
+      <p class="hint" id="graphHint">Force graph from real profiles; edges from co-occurrence or heuristic</p>
+    </div>
+    <div class="graph-stage">
+      <canvas id="graphCanvas" width="1400" height="700" aria-label="Fleet graph"></canvas>
+      <aside class="graph-side" id="graphSide"></aside>
+    </div>
+  </section>
+
+  <section id="view-cards" class="view" role="tabpanel" hidden>
+    <div class="panel-head">
+      <h2>Bot Cards</h2>
+      <p class="hint">Real names &amp; titles from <code>profile.json</code> — click a card for detail</p>
+      <input type="search" id="cardFilter" placeholder="Filter bots…" aria-label="Filter bots">
+    </div>
+    <div class="card-grid" id="cardGrid"></div>
+  </section>
+
+  <section id="view-timeline" class="view" role="tabpanel" hidden>
+    <div class="panel-head">
+      <h2>Timeline</h2>
+      <p class="hint">Scrubbable day timeline from fleet.json <code>events</code> / <code>eventDaysUTC</code></p>
+    </div>
+    <div id="timelineEmpty" class="empty" hidden>
+      <p>No event days in this snapshot.</p>
+      <p class="muted">Collector merges <code>bot-island/data/fleet.json</code> when present. Re-run <code>collect.py</code> after Bot Island collects.</p>
+    </div>
+    <div id="timelineWrap">
+      <div class="tl-controls">
+        <button type="button" id="tlPrev" aria-label="Previous day">‹</button>
+        <input type="range" id="tlScrub" min="0" max="0" value="0" aria-label="Day scrubber">
+        <button type="button" id="tlNext" aria-label="Next day">›</button>
+        <span class="tl-day" id="tlDayLabel">—</span>
+      </div>
+      <div class="tl-bars" id="tlBars"></div>
+      <div class="tl-feed" id="tlFeed"></div>
+    </div>
+  </section>
+</main>
+
+<aside class="drawer" id="botDrawer" hidden aria-live="polite">
+  <button type="button" class="drawer-close" id="drawerClose" aria-label="Close">×</button>
+  <div id="drawerBody"></div>
+</aside>
+<div class="backdrop" id="backdrop" hidden></div>
+
+<footer class="foot">
+  <span id="footMeta">Agent Wire</span>
+  <span class="sep">·</span>
+  <span>read-only local metadata · never invents bot names</span>
+</footer>
+
+<script>
+window.__WIRE__ = /*__WIRE__*/ null /*__/WIRE__*/;
+</script>
+<script>/*__APP__*/</script>
+</body>
+</html>
