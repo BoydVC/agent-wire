@@ -214,17 +214,17 @@
       "id": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "folderId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "serverId": "654360",
-      "name": "Vic Tutor",
+      "name": "Sam Tutor",
       "title": "6th Grade Tutor",
       "avatarColor": "orange",
       "avatarShape": "cloud",
       "harness": "temporal",
       "namedBy": "user",
-      "blurb": "You are Vic Tutor — homework tutor for Victor Boyd only (6th grade, ~11). Your ONLY job is general homework help across subjects: explain, quiz, break down assignments, check under…",
+      "blurb": "You are Sam Tutor — homework tutor for Samuel Doe only (6th grade, ~11). Your ONLY job is general homework help across subjects: explain, quiz, break down assignments, check under…",
       "routines": [
         {
           "slug": "vic-weeknight-homework-check-in",
-          "name": "Vic weeknight homework check-in",
+          "name": "Sam weeknight homework check-in",
           "schedule": "15 18 * * *",
           "enabled": true,
           "lastRunAt": 1789514041800
@@ -385,7 +385,7 @@
       "avatarShape": "",
       "harness": "temporal",
       "namedBy": "user",
-      "blurb": "You are Path — Charlotte Boyd's high-school placement guide (8th grade → fall 2027). Your ONLY job is to get Charlotte into the best fit high school her family can afford, with Arc…",
+      "blurb": "You are Path — Alex Doe's high-school placement guide (8th grade → fall 2027). Your ONLY job is to get Alex into the best fit high school her family can afford, with Arc…",
       "routines": [],
       "routineCount": 0,
       "eventCount": 0,
@@ -396,17 +396,17 @@
       "id": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "folderId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "serverId": "654318",
-      "name": "Char Tutor",
+      "name": "Alex Tutor",
       "title": "8th Grade Tutor",
       "avatarColor": "violet",
       "avatarShape": "cloud",
       "harness": "temporal",
       "namedBy": "user",
-      "blurb": "You are Char Tutor — homework tutor for Charlotte Boyd only (8th grade, ~13). Your ONLY job is general homework help across subjects: explain, quiz, break down assignments, check u…",
+      "blurb": "You are Alex Tutor — homework tutor for Alex Doe only (8th grade, ~13). Your ONLY job is general homework help across subjects: explain, quiz, break down assignments, check u…",
       "routines": [
         {
           "slug": "char-weeknight-homework-check-in",
-          "name": "Char weeknight homework check-in",
+          "name": "Alex weeknight homework check-in",
           "schedule": "45 17 * * *",
           "enabled": true,
           "lastRunAt": 1789514041854
@@ -1131,7 +1131,7 @@
       "ts": "2026-08-26T11:35:43.597Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 1001
     },
@@ -2496,7 +2496,7 @@
       "ts": "2026-08-27T11:31:37.123Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 1489
     },
@@ -2504,7 +2504,7 @@
       "ts": "2026-08-27T11:31:53.443Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_message",
       "ms": 574
     },
@@ -2512,7 +2512,7 @@
       "ts": "2026-08-27T11:31:53.758Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 866
     },
@@ -3453,7 +3453,7 @@
       "ts": "2026-08-28T11:34:27.942Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 1455
     },
@@ -3476,7 +3476,7 @@
       "ts": "2026-08-28T11:34:54.290Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 1200
     },
@@ -3490,7 +3490,7 @@
       "ts": "2026-08-28T11:35:03.761Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 650
     },
@@ -3498,7 +3498,7 @@
       "ts": "2026-08-28T11:35:04.597Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 579
     },
@@ -3506,7 +3506,7 @@
       "ts": "2026-08-28T11:35:05.168Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 580
     },
@@ -3514,7 +3514,7 @@
       "ts": "2026-08-28T11:35:06.045Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 645
     },
@@ -3522,7 +3522,7 @@
       "ts": "2026-08-28T11:35:06.764Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 573
     },
@@ -3536,7 +3536,7 @@
       "ts": "2026-08-28T11:35:08.173Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 604
     },
@@ -3544,7 +3544,7 @@
       "ts": "2026-08-28T11:35:40.116Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 555
     },
@@ -3596,7 +3596,7 @@
       "ts": "2026-08-28T11:37:50.085Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 882
     },
@@ -3604,7 +3604,7 @@
       "ts": "2026-08-28T11:37:58.053Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 691
     },
@@ -3612,7 +3612,7 @@
       "ts": "2026-08-28T11:37:58.639Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 539
     },
@@ -4358,7 +4358,7 @@
       "ts": "2026-08-31T11:43:34.973Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 1411
     },
@@ -4374,7 +4374,7 @@
       "ts": "2026-08-31T11:43:36.068Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 1008
     },
@@ -4382,7 +4382,7 @@
       "ts": "2026-08-31T11:43:50.214Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 1030
     },
@@ -4390,7 +4390,7 @@
       "ts": "2026-08-31T11:43:54.718Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 608
     },
@@ -4398,7 +4398,7 @@
       "ts": "2026-08-31T11:43:55.095Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 555
     },
@@ -4406,7 +4406,7 @@
       "ts": "2026-08-31T11:43:55.643Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 520
     },
@@ -4414,7 +4414,7 @@
       "ts": "2026-08-31T11:43:55.861Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 945
     },
@@ -4422,7 +4422,7 @@
       "ts": "2026-08-31T11:44:12.895Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 803
     },
@@ -4549,7 +4549,7 @@
       "ts": "2026-08-31T12:12:56.634Z",
       "type": "mcp_tool_call",
       "bot": "4feb1fc5-075b-4294-a694-3fa562e5785b",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 982
     },
@@ -4579,7 +4579,7 @@
       "ts": "2026-08-31T12:13:20.423Z",
       "type": "mcp_tool_call",
       "bot": "4feb1fc5-075b-4294-a694-3fa562e5785b",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 536
     },
@@ -4793,7 +4793,7 @@
       "ts": "2026-09-01T11:43:13.617Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 1336
     },
@@ -4801,7 +4801,7 @@
       "ts": "2026-09-01T11:43:14.086Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 1565
     },
@@ -4809,7 +4809,7 @@
       "ts": "2026-09-01T11:43:14.226Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 1717
     },
@@ -4823,7 +4823,7 @@
       "ts": "2026-09-01T11:43:35.883Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 604
     },
@@ -4831,7 +4831,7 @@
       "ts": "2026-09-01T11:43:36.001Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 602
     },
@@ -4839,7 +4839,7 @@
       "ts": "2026-09-01T11:43:36.614Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 494
     },
@@ -4847,7 +4847,7 @@
       "ts": "2026-09-01T11:43:36.779Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 569
     },
@@ -4855,7 +4855,7 @@
       "ts": "2026-09-01T11:43:37.198Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 628
     },
@@ -4863,7 +4863,7 @@
       "ts": "2026-09-01T11:43:37.882Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 689
     },
@@ -4871,7 +4871,7 @@
       "ts": "2026-09-01T11:43:38.494Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 931
     },
@@ -4879,7 +4879,7 @@
       "ts": "2026-09-01T11:43:38.581Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 862
     },
@@ -4887,7 +4887,7 @@
       "ts": "2026-09-01T11:43:49.135Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 1169
     },
@@ -4895,7 +4895,7 @@
       "ts": "2026-09-01T11:43:49.867Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 1175
     },
@@ -4903,7 +4903,7 @@
       "ts": "2026-09-01T11:43:50.004Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 1115
     },
@@ -4911,7 +4911,7 @@
       "ts": "2026-09-01T11:43:50.714Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 625
     },
@@ -4919,7 +4919,7 @@
       "ts": "2026-09-01T11:43:50.983Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 778
     },
@@ -4927,7 +4927,7 @@
       "ts": "2026-09-01T11:43:51.404Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 533
     },
@@ -4935,7 +4935,7 @@
       "ts": "2026-09-01T11:43:51.410Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 540
     },
@@ -4943,7 +4943,7 @@
       "ts": "2026-09-01T11:44:07.427Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 650
     },
@@ -4951,7 +4951,7 @@
       "ts": "2026-09-01T11:44:08.169Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 563
     },
@@ -4959,7 +4959,7 @@
       "ts": "2026-09-01T11:44:08.786Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 640
     },
@@ -4967,7 +4967,7 @@
       "ts": "2026-09-01T11:44:09.465Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 601
     },
@@ -4975,7 +4975,7 @@
       "ts": "2026-09-01T11:44:09.988Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 560
     },
@@ -4983,7 +4983,7 @@
       "ts": "2026-09-01T11:44:10.729Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 852
     },
@@ -4991,7 +4991,7 @@
       "ts": "2026-09-01T11:44:10.762Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 1050
     },
@@ -5339,7 +5339,7 @@
       "ts": "2026-09-02T11:36:18.537Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 2472
     },
@@ -5355,7 +5355,7 @@
       "ts": "2026-09-02T11:36:53.437Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 2708
     },
@@ -5835,7 +5835,7 @@
       "ts": "2026-09-02T22:29:11.572Z",
       "type": "mcp_tool_call",
       "bot": "5ea76ec0-2e44-46be-993a-11bc6ba30958",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 845
     },
@@ -5960,7 +5960,7 @@
       "ts": "2026-09-03T11:35:08.001Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 1129
     },
@@ -5976,7 +5976,7 @@
       "ts": "2026-09-03T11:35:47.482Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 1164
     },
@@ -5998,7 +5998,7 @@
       "ts": "2026-09-03T11:35:57.571Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 657
     },
@@ -6095,7 +6095,7 @@
       "ts": "2026-09-03T12:27:18.607Z",
       "type": "mcp_tool_call",
       "bot": "4feb1fc5-075b-4294-a694-3fa562e5785b",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 970
     },
@@ -6385,7 +6385,7 @@
       "ts": "2026-09-04T11:40:56.650Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 1147
     },
@@ -6401,7 +6401,7 @@
       "ts": "2026-09-04T11:41:33.283Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 1069
     },
@@ -6417,7 +6417,7 @@
       "ts": "2026-09-04T11:41:40.959Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 1138
     },
@@ -6460,7 +6460,7 @@
       "ts": "2026-09-04T11:41:46.556Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 592
     },
@@ -6468,7 +6468,7 @@
       "ts": "2026-09-04T11:41:47.017Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 1066
     },
@@ -6512,7 +6512,7 @@
       "ts": "2026-09-04T12:09:53.652Z",
       "type": "mcp_tool_call",
       "bot": "4feb1fc5-075b-4294-a694-3fa562e5785b",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 1682
     },
@@ -7328,7 +7328,7 @@
       "ts": "2026-09-07T11:36:45.566Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 1055
     },
@@ -7352,7 +7352,7 @@
       "ts": "2026-09-07T11:37:17.574Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 435
     },
@@ -7360,7 +7360,7 @@
       "ts": "2026-09-07T11:37:18.034Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 919
     },
@@ -7368,7 +7368,7 @@
       "ts": "2026-09-07T11:37:37.941Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 543
     },
@@ -7376,7 +7376,7 @@
       "ts": "2026-09-07T11:37:38.320Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 686
     },
@@ -7384,7 +7384,7 @@
       "ts": "2026-09-07T11:37:40.706Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 872
     },
@@ -7414,7 +7414,7 @@
       "ts": "2026-09-07T11:38:04.752Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 707
     },
@@ -7422,7 +7422,7 @@
       "ts": "2026-09-07T11:38:16.227Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 755
     },
@@ -7436,7 +7436,7 @@
       "ts": "2026-09-07T11:38:22.734Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 681
     },
@@ -7464,7 +7464,7 @@
       "ts": "2026-09-07T11:39:31.337Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 585
     },
@@ -7878,7 +7878,7 @@
       "ts": "2026-09-08T11:39:19.827Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 404
     },
@@ -7894,7 +7894,7 @@
       "ts": "2026-09-08T11:39:48.358Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 5399
     },
@@ -7910,7 +7910,7 @@
       "ts": "2026-09-08T11:40:17.304Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 1444
     },
@@ -7918,7 +7918,7 @@
       "ts": "2026-09-08T11:40:36.600Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 1539
     },
@@ -7926,7 +7926,7 @@
       "ts": "2026-09-08T11:40:37.603Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 2734
     },
@@ -7934,7 +7934,7 @@
       "ts": "2026-09-08T11:40:37.826Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 3370
     },
@@ -8712,7 +8712,7 @@
       "ts": "2026-09-09T11:36:58.522Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 1513
     },
@@ -8720,7 +8720,7 @@
       "ts": "2026-09-09T11:37:20.601Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 876
     },
@@ -8744,7 +8744,7 @@
       "ts": "2026-09-09T11:37:29.786Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 571
     },
@@ -8752,7 +8752,7 @@
       "ts": "2026-09-09T11:37:30.348Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 502
     },
@@ -8760,7 +8760,7 @@
       "ts": "2026-09-09T11:37:30.841Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 501
     },
@@ -8768,7 +8768,7 @@
       "ts": "2026-09-09T11:37:56.244Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 681
     },
@@ -8776,7 +8776,7 @@
       "ts": "2026-09-09T11:37:56.433Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 1153
     },
@@ -8784,7 +8784,7 @@
       "ts": "2026-09-09T11:38:09.841Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 804
     },
@@ -8792,7 +8792,7 @@
       "ts": "2026-09-09T11:38:20.084Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 777
     },
@@ -10297,7 +10297,7 @@
       "ts": "2026-09-10T11:40:39.412Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 1152
     },
@@ -10305,7 +10305,7 @@
       "ts": "2026-09-10T11:41:01.806Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 673
     },
@@ -10313,7 +10313,7 @@
       "ts": "2026-09-10T11:41:07.559Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 540
     },
@@ -10321,7 +10321,7 @@
       "ts": "2026-09-10T11:41:08.437Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 592
     },
@@ -10329,7 +10329,7 @@
       "ts": "2026-09-10T11:41:09.008Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 489
     },
@@ -10337,7 +10337,7 @@
       "ts": "2026-09-10T11:41:13.956Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 538
     },
@@ -10387,7 +10387,7 @@
       "ts": "2026-09-10T11:41:31.333Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 561
     },
@@ -10395,7 +10395,7 @@
       "ts": "2026-09-10T11:41:31.718Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 827
     },
@@ -10403,7 +10403,7 @@
       "ts": "2026-09-10T11:41:52.834Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 549
     },
@@ -11755,7 +11755,7 @@
       "ts": "2026-09-11T11:55:48.173Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 1776
     },
@@ -11763,7 +11763,7 @@
       "ts": "2026-09-11T11:56:10.098Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 919
     },
@@ -11771,7 +11771,7 @@
       "ts": "2026-09-11T11:56:24.028Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 608
     },
@@ -11779,7 +11779,7 @@
       "ts": "2026-09-11T11:56:24.469Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 586
     },
@@ -11787,7 +11787,7 @@
       "ts": "2026-09-11T11:56:25.161Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 612
     },
@@ -11795,7 +11795,7 @@
       "ts": "2026-09-11T11:56:25.564Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 475
     },
@@ -11838,7 +11838,7 @@
       "ts": "2026-09-11T11:56:47.763Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 511
     },
@@ -13634,7 +13634,7 @@
       "ts": "2026-09-14T11:50:31.751Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 1217
     },
@@ -13642,7 +13642,7 @@
       "ts": "2026-09-14T11:50:32.732Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 2181
     },
@@ -13650,7 +13650,7 @@
       "ts": "2026-09-14T11:50:33.544Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 755
     },
@@ -13658,7 +13658,7 @@
       "ts": "2026-09-14T11:50:34.303Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 739
     },
@@ -13666,7 +13666,7 @@
       "ts": "2026-09-14T11:50:35.014Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 787
     },
@@ -13674,7 +13674,7 @@
       "ts": "2026-09-14T11:50:35.712Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 752
     },
@@ -13682,7 +13682,7 @@
       "ts": "2026-09-14T11:50:35.891Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 4405
     },
@@ -13730,7 +13730,7 @@
       "ts": "2026-09-14T11:50:54.153Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 600
     },
@@ -13738,7 +13738,7 @@
       "ts": "2026-09-14T11:50:54.271Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 566
     },
@@ -13754,7 +13754,7 @@
       "ts": "2026-09-14T11:50:54.633Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 502
     },
@@ -13778,7 +13778,7 @@
       "ts": "2026-09-14T11:50:57.138Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 3465
     },
@@ -13786,7 +13786,7 @@
       "ts": "2026-09-14T11:50:58.475Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 564
     },
@@ -13794,7 +13794,7 @@
       "ts": "2026-09-14T11:50:58.491Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 471
     },
@@ -13802,7 +13802,7 @@
       "ts": "2026-09-14T11:50:58.496Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 1662
     },
@@ -13810,7 +13810,7 @@
       "ts": "2026-09-14T11:50:58.618Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 455
     },
@@ -13818,7 +13818,7 @@
       "ts": "2026-09-14T11:51:08.346Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 829
     },
@@ -13826,7 +13826,7 @@
       "ts": "2026-09-14T11:51:09.126Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 611
     },
@@ -13834,7 +13834,7 @@
       "ts": "2026-09-14T11:51:10.128Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 652
     },
@@ -13842,7 +13842,7 @@
       "ts": "2026-09-14T11:51:10.529Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 458
     },
@@ -13850,7 +13850,7 @@
       "ts": "2026-09-14T11:51:11.430Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 439
     },
@@ -13858,7 +13858,7 @@
       "ts": "2026-09-14T11:51:11.812Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 456
     },
@@ -13866,7 +13866,7 @@
       "ts": "2026-09-14T11:51:11.839Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 505
     },
@@ -13874,7 +13874,7 @@
       "ts": "2026-09-14T11:51:22.625Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 729
     },
@@ -13882,7 +13882,7 @@
       "ts": "2026-09-14T11:51:22.774Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 719
     },
@@ -13890,7 +13890,7 @@
       "ts": "2026-09-14T11:51:33.629Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 523
     },
@@ -13898,7 +13898,7 @@
       "ts": "2026-09-14T11:51:33.877Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 467
     },
@@ -13906,7 +13906,7 @@
       "ts": "2026-09-14T11:51:34.255Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 465
     },
@@ -13914,7 +13914,7 @@
       "ts": "2026-09-14T11:51:34.560Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 550
     },
@@ -13959,7 +13959,7 @@
       "ts": "2026-09-14T12:40:41.752Z",
       "type": "mcp_tool_call",
       "bot": "5ea76ec0-2e44-46be-993a-11bc6ba30958",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 1413
     },
@@ -13999,7 +13999,7 @@
       "ts": "2026-09-14T12:40:53.076Z",
       "type": "mcp_tool_call",
       "bot": "5ea76ec0-2e44-46be-993a-11bc6ba30958",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 1217
     },
@@ -14103,7 +14103,7 @@
       "ts": "2026-09-14T12:41:37.255Z",
       "type": "mcp_tool_call",
       "bot": "5ea76ec0-2e44-46be-993a-11bc6ba30958",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 4897
     },
@@ -14434,7 +14434,7 @@
       "ts": "2026-09-14T12:53:55.284Z",
       "type": "mcp_tool_call",
       "bot": "5ea76ec0-2e44-46be-993a-11bc6ba30958",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 2051
     },
@@ -14442,7 +14442,7 @@
       "ts": "2026-09-14T12:53:56.639Z",
       "type": "mcp_tool_call",
       "bot": "5ea76ec0-2e44-46be-993a-11bc6ba30958",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 1654
     },
@@ -14512,7 +14512,7 @@
       "ts": "2026-09-14T12:54:22.222Z",
       "type": "mcp_tool_call",
       "bot": "5ea76ec0-2e44-46be-993a-11bc6ba30958",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 1395
     },
@@ -14520,7 +14520,7 @@
       "ts": "2026-09-14T12:54:23.229Z",
       "type": "mcp_tool_call",
       "bot": "5ea76ec0-2e44-46be-993a-11bc6ba30958",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 1435
     },
@@ -14590,7 +14590,7 @@
       "ts": "2026-09-14T12:54:52.301Z",
       "type": "mcp_tool_call",
       "bot": "5ea76ec0-2e44-46be-993a-11bc6ba30958",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 789
     },
@@ -14614,7 +14614,7 @@
       "ts": "2026-09-14T12:55:04.218Z",
       "type": "mcp_tool_call",
       "bot": "5ea76ec0-2e44-46be-993a-11bc6ba30958",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_message",
       "ms": 714
     },
@@ -14662,7 +14662,7 @@
       "ts": "2026-09-14T12:55:09.208Z",
       "type": "mcp_tool_call",
       "bot": "5ea76ec0-2e44-46be-993a-11bc6ba30958",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 3752
     },
@@ -15724,7 +15724,7 @@
       "ts": "2026-09-15T11:32:27.557Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 1012
     },
@@ -15732,7 +15732,7 @@
       "ts": "2026-09-15T11:32:44.372Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 5382
     },
@@ -15740,7 +15740,7 @@
       "ts": "2026-09-15T11:32:46.468Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 528
     },
@@ -15748,7 +15748,7 @@
       "ts": "2026-09-15T11:32:46.597Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 476
     },
@@ -15756,7 +15756,7 @@
       "ts": "2026-09-15T11:32:46.899Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 484
     },
@@ -15764,7 +15764,7 @@
       "ts": "2026-09-15T11:32:59.262Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 926
     },
@@ -15772,7 +15772,7 @@
       "ts": "2026-09-15T11:33:00.171Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 500
     },
@@ -15780,7 +15780,7 @@
       "ts": "2026-09-15T11:33:00.800Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 803
     },
@@ -15788,7 +15788,7 @@
       "ts": "2026-09-15T11:33:02.001Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 458
     },
@@ -15802,7 +15802,7 @@
       "ts": "2026-09-15T11:33:18.637Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 536
     },
@@ -15810,7 +15810,7 @@
       "ts": "2026-09-15T11:33:19.105Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 5613
     },
@@ -15818,7 +15818,7 @@
       "ts": "2026-09-15T11:33:20.852Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 3873
     },
@@ -15826,7 +15826,7 @@
       "ts": "2026-09-15T11:33:41.378Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 817
     },
@@ -15834,7 +15834,7 @@
       "ts": "2026-09-15T11:33:41.403Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 605
     },
@@ -15842,7 +15842,7 @@
       "ts": "2026-09-15T11:33:48.928Z",
       "type": "mcp_tool_call",
       "bot": "e1bfeb52-89c2-48fa-b6dd-b4dcf9ed54e1",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 469
     },
@@ -15889,7 +15889,7 @@
       "ts": "2026-09-15T13:01:05.876Z",
       "type": "mcp_tool_call",
       "bot": "5ea76ec0-2e44-46be-993a-11bc6ba30958",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 3335
     },
@@ -15897,7 +15897,7 @@
       "ts": "2026-09-15T13:01:06.713Z",
       "type": "mcp_tool_call",
       "bot": "5ea76ec0-2e44-46be-993a-11bc6ba30958",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 1883
     },
@@ -15905,7 +15905,7 @@
       "ts": "2026-09-15T13:01:08.172Z",
       "type": "mcp_tool_call",
       "bot": "5ea76ec0-2e44-46be-993a-11bc6ba30958",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 4904
     },
@@ -15913,7 +15913,7 @@
       "ts": "2026-09-15T13:01:08.910Z",
       "type": "mcp_tool_call",
       "bot": "5ea76ec0-2e44-46be-993a-11bc6ba30958",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 2315
     },
@@ -15985,7 +15985,7 @@
       "ts": "2026-09-15T13:01:29.652Z",
       "type": "mcp_tool_call",
       "bot": "5ea76ec0-2e44-46be-993a-11bc6ba30958",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 983
     },
@@ -16001,7 +16001,7 @@
       "ts": "2026-09-15T13:01:43.917Z",
       "type": "mcp_tool_call",
       "bot": "5ea76ec0-2e44-46be-993a-11bc6ba30958",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 2750
     },
@@ -16017,7 +16017,7 @@
       "ts": "2026-09-15T13:01:45.969Z",
       "type": "mcp_tool_call",
       "bot": "5ea76ec0-2e44-46be-993a-11bc6ba30958",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 2029
     },
@@ -16065,7 +16065,7 @@
       "ts": "2026-09-15T13:02:06.164Z",
       "type": "mcp_tool_call",
       "bot": "5ea76ec0-2e44-46be-993a-11bc6ba30958",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 1423
     },
@@ -16105,7 +16105,7 @@
       "ts": "2026-09-15T13:02:09.964Z",
       "type": "mcp_tool_call",
       "bot": "5ea76ec0-2e44-46be-993a-11bc6ba30958",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "get_thread",
       "ms": 5185
     },
@@ -16121,7 +16121,7 @@
       "ts": "2026-09-15T13:02:54.516Z",
       "type": "mcp_tool_call",
       "bot": "5ea76ec0-2e44-46be-993a-11bc6ba30958",
-      "app": "Gmail (Miranda)",
+      "app": "Gmail (Jordan)",
       "tool": "search_threads",
       "ms": 1176
     },
@@ -17698,7 +17698,7 @@
       "type": "routine_touch",
       "bot": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "app": "Routine",
-      "tool": "Vic weeknight homework check-in"
+      "tool": "Sam weeknight homework check-in"
     },
     {
       "ts": "2026-10-09T00:10:47.279041Z",
@@ -17712,7 +17712,7 @@
       "type": "routine_touch",
       "bot": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "app": "Routine",
-      "tool": "Char weeknight homework check-in"
+      "tool": "Alex weeknight homework check-in"
     },
     {
       "ts": "2026-10-09T00:10:47.607041Z",
@@ -18147,7 +18147,7 @@
       "ts": "2026-09-12T23:10:55.493Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -18155,7 +18155,7 @@
       "ts": "2026-09-12T23:11:08.353Z",
       "kind": "computer",
       "type": "computer_use_session",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Computer use"
     },
@@ -18651,7 +18651,7 @@
       "ts": "2026-09-13T23:14:46.781Z",
       "kind": "shell",
       "type": "shell_command",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Shell"
     },
@@ -18659,7 +18659,7 @@
       "ts": "2026-09-13T23:14:54.210Z",
       "kind": "shell",
       "type": "shell_command",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Shell"
     },
@@ -18667,7 +18667,7 @@
       "ts": "2026-09-13T23:15:15.924Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -18675,7 +18675,7 @@
       "ts": "2026-09-13T23:15:30.594Z",
       "kind": "computer",
       "type": "computer_use_session",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Computer use"
     },
@@ -18683,7 +18683,7 @@
       "ts": "2026-09-13T23:18:36.888Z",
       "kind": "shell",
       "type": "shell_command",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Shell"
     },
@@ -18691,7 +18691,7 @@
       "ts": "2026-09-13T23:18:40.914Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -18699,7 +18699,7 @@
       "ts": "2026-09-13T23:18:46.717Z",
       "kind": "computer",
       "type": "computer_use_session",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Computer use"
     },
@@ -20651,7 +20651,7 @@
       "ts": "2026-09-14T19:31:57.219Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -20659,7 +20659,7 @@
       "ts": "2026-09-14T19:31:57.219Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -20667,7 +20667,7 @@
       "ts": "2026-09-14T19:31:57.219Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -20675,7 +20675,7 @@
       "ts": "2026-09-14T19:31:57.219Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -20683,7 +20683,7 @@
       "ts": "2026-09-14T19:31:57.219Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -20691,7 +20691,7 @@
       "ts": "2026-09-14T19:31:57.219Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -20699,7 +20699,7 @@
       "ts": "2026-09-14T19:31:57.219Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -20707,7 +20707,7 @@
       "ts": "2026-09-14T19:32:14.485Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -20715,7 +20715,7 @@
       "ts": "2026-09-14T19:32:15.346Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -20723,7 +20723,7 @@
       "ts": "2026-09-14T19:32:15.346Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -20731,7 +20731,7 @@
       "ts": "2026-09-14T19:32:15.346Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -20739,7 +20739,7 @@
       "ts": "2026-09-14T19:32:15.346Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -20747,7 +20747,7 @@
       "ts": "2026-09-14T19:32:15.346Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -20755,7 +20755,7 @@
       "ts": "2026-09-14T19:32:15.346Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -20763,7 +20763,7 @@
       "ts": "2026-09-14T19:32:17.387Z",
       "kind": "shell",
       "type": "shell_command",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Shell"
     },
@@ -20771,7 +20771,7 @@
       "ts": "2026-09-14T19:32:25.290Z",
       "kind": "computer",
       "type": "computer_use_session",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Computer use"
     },
@@ -20779,7 +20779,7 @@
       "ts": "2026-09-14T19:32:31.438Z",
       "kind": "shell",
       "type": "shell_command",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Shell"
     },
@@ -20787,7 +20787,7 @@
       "ts": "2026-09-14T19:32:31.563Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -20795,7 +20795,7 @@
       "ts": "2026-09-14T19:33:28.302000Z",
       "kind": "message",
       "type": "boyd_msg",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Boyd"
     },
@@ -20803,7 +20803,7 @@
       "ts": "2026-09-14T19:33:39.314Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -20811,7 +20811,7 @@
       "ts": "2026-09-14T19:33:39.314Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -20819,7 +20819,7 @@
       "ts": "2026-09-14T19:33:39.314Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -20827,7 +20827,7 @@
       "ts": "2026-09-14T19:33:39.314Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -20835,7 +20835,7 @@
       "ts": "2026-09-14T19:33:39.314Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -20843,7 +20843,7 @@
       "ts": "2026-09-14T19:33:39.314Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -20851,7 +20851,7 @@
       "ts": "2026-09-14T19:33:39.314Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -20859,7 +20859,7 @@
       "ts": "2026-09-14T19:33:39.314Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -20867,7 +20867,7 @@
       "ts": "2026-09-14T19:33:48.035Z",
       "kind": "computer",
       "type": "computer_use_session",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Computer use"
     },
@@ -20875,7 +20875,7 @@
       "ts": "2026-09-14T19:33:58.436Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -20883,7 +20883,7 @@
       "ts": "2026-09-14T19:34:24.882Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -20891,7 +20891,7 @@
       "ts": "2026-09-14T19:34:29.156Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -20899,7 +20899,7 @@
       "ts": "2026-09-14T19:34:36.224Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -20907,7 +20907,7 @@
       "ts": "2026-09-14T19:34:53.957Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -20915,7 +20915,7 @@
       "ts": "2026-09-14T19:35:21.916Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -20923,7 +20923,7 @@
       "ts": "2026-09-14T19:35:39.676Z",
       "kind": "computer",
       "type": "computer_use_session",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Computer use"
     },
@@ -20939,7 +20939,7 @@
       "ts": "2026-09-14T19:37:08.700Z",
       "kind": "computer",
       "type": "computer_use_session",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Computer use"
     },
@@ -20947,7 +20947,7 @@
       "ts": "2026-09-14T20:55:56.072000Z",
       "kind": "message",
       "type": "boyd_msg",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Boyd"
     },
@@ -20955,7 +20955,7 @@
       "ts": "2026-09-14T20:57:15.156000Z",
       "kind": "message",
       "type": "boyd_msg",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Boyd"
     },
@@ -20963,7 +20963,7 @@
       "ts": "2026-09-14T20:57:28.252Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -20971,7 +20971,7 @@
       "ts": "2026-09-14T20:57:28.252Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -20979,7 +20979,7 @@
       "ts": "2026-09-14T20:57:28.252Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -20987,7 +20987,7 @@
       "ts": "2026-09-14T20:57:28.252Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -20995,7 +20995,7 @@
       "ts": "2026-09-14T20:57:28.252Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -21003,7 +21003,7 @@
       "ts": "2026-09-14T20:57:28.252Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -21011,7 +21011,7 @@
       "ts": "2026-09-14T20:57:28.252Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -21019,7 +21019,7 @@
       "ts": "2026-09-14T20:57:32.699Z",
       "kind": "computer",
       "type": "computer_use_session",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Computer use"
     },
@@ -21027,7 +21027,7 @@
       "ts": "2026-09-14T21:37:51.650Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -21035,7 +21035,7 @@
       "ts": "2026-09-14T21:38:41.879Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -21043,7 +21043,7 @@
       "ts": "2026-09-14T21:40:18.847Z",
       "kind": "computer",
       "type": "computer_use_session",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Computer use"
     },
@@ -21051,7 +21051,7 @@
       "ts": "2026-09-14T23:15:11.632Z",
       "kind": "shell",
       "type": "shell_command",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Shell"
     },
@@ -21059,7 +21059,7 @@
       "ts": "2026-09-14T23:15:34.862Z",
       "kind": "shell",
       "type": "shell_command",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Shell"
     },
@@ -21067,7 +21067,7 @@
       "ts": "2026-09-14T23:16:56.801Z",
       "kind": "computer",
       "type": "computer_use_session",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Computer use"
     },
@@ -21075,7 +21075,7 @@
       "ts": "2026-09-14T23:38:47.247Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -21083,7 +21083,7 @@
       "ts": "2026-09-14T23:38:47.247Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -21091,7 +21091,7 @@
       "ts": "2026-09-14T23:38:47.247Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -21099,7 +21099,7 @@
       "ts": "2026-09-14T23:38:47.247Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -21107,7 +21107,7 @@
       "ts": "2026-09-14T23:38:47.247Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -21115,7 +21115,7 @@
       "ts": "2026-09-14T23:38:47.247Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -21123,7 +21123,7 @@
       "ts": "2026-09-14T23:38:47.247Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -21131,7 +21131,7 @@
       "ts": "2026-09-14T23:38:47.247Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -21139,7 +21139,7 @@
       "ts": "2026-09-14T23:38:54.748Z",
       "kind": "computer",
       "type": "computer_use_session",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Computer use"
     },
@@ -21619,7 +21619,7 @@
       "ts": "2026-09-15T11:09:51.693000Z",
       "kind": "message",
       "type": "agent_msg",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Message"
     },
@@ -21627,7 +21627,7 @@
       "ts": "2026-09-15T11:09:53.400000Z",
       "kind": "message",
       "type": "agent_msg",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Message"
     },
@@ -22283,7 +22283,7 @@
       "ts": "2026-09-15T23:14:31.843Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -22291,7 +22291,7 @@
       "ts": "2026-09-15T23:14:31.843Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -22299,7 +22299,7 @@
       "ts": "2026-09-15T23:14:31.843Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -22307,7 +22307,7 @@
       "ts": "2026-09-15T23:14:31.843Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -22315,7 +22315,7 @@
       "ts": "2026-09-15T23:14:31.843Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -22323,7 +22323,7 @@
       "ts": "2026-09-15T23:14:31.843Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -22331,7 +22331,7 @@
       "ts": "2026-09-15T23:14:31.843Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -22339,7 +22339,7 @@
       "ts": "2026-09-15T23:14:31.843Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -22347,7 +22347,7 @@
       "ts": "2026-09-15T23:14:31.843Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -22355,7 +22355,7 @@
       "ts": "2026-09-15T23:14:38.775Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -22363,7 +22363,7 @@
       "ts": "2026-09-15T23:14:38.775Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -22371,7 +22371,7 @@
       "ts": "2026-09-15T23:14:38.775Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -22379,7 +22379,7 @@
       "ts": "2026-09-15T23:14:38.775Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -22387,7 +22387,7 @@
       "ts": "2026-09-15T23:14:38.775Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -22395,7 +22395,7 @@
       "ts": "2026-09-15T23:14:38.775Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -22403,7 +22403,7 @@
       "ts": "2026-09-15T23:14:38.775Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -22411,7 +22411,7 @@
       "ts": "2026-09-15T23:14:38.775Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -22419,7 +22419,7 @@
       "ts": "2026-09-15T23:14:38.775Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -22427,7 +22427,7 @@
       "ts": "2026-09-15T23:14:39.519Z",
       "kind": "shell",
       "type": "shell_command",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Shell"
     },
@@ -22435,7 +22435,7 @@
       "ts": "2026-09-15T23:14:40.326Z",
       "kind": "computer",
       "type": "computer_use_session",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Computer use"
     },
@@ -22443,7 +22443,7 @@
       "ts": "2026-09-15T23:14:46.523Z",
       "kind": "shell",
       "type": "shell_command",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Shell"
     },
@@ -22451,7 +22451,7 @@
       "ts": "2026-09-15T23:14:51.873Z",
       "kind": "computer",
       "type": "computer_use_session",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Computer use"
     },
@@ -22459,7 +22459,7 @@
       "ts": "2026-09-15T23:14:54.307Z",
       "kind": "shell",
       "type": "shell_command",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Shell"
     },
@@ -22467,7 +22467,7 @@
       "ts": "2026-09-15T23:16:14.357Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -22475,7 +22475,7 @@
       "ts": "2026-09-15T23:16:14.357Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -22483,7 +22483,7 @@
       "ts": "2026-09-15T23:16:14.357Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -22491,7 +22491,7 @@
       "ts": "2026-09-15T23:16:14.357Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -22499,7 +22499,7 @@
       "ts": "2026-09-15T23:16:14.357Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -22507,7 +22507,7 @@
       "ts": "2026-09-15T23:16:14.357Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -22515,7 +22515,7 @@
       "ts": "2026-09-15T23:16:14.357Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -22523,7 +22523,7 @@
       "ts": "2026-09-15T23:16:14.357Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -22531,7 +22531,7 @@
       "ts": "2026-09-15T23:16:14.357Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -22539,7 +22539,7 @@
       "ts": "2026-09-15T23:16:24.371Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -22547,7 +22547,7 @@
       "ts": "2026-09-15T23:16:24.371Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -22555,7 +22555,7 @@
       "ts": "2026-09-15T23:16:24.371Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -22563,7 +22563,7 @@
       "ts": "2026-09-15T23:16:24.371Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -22571,7 +22571,7 @@
       "ts": "2026-09-15T23:16:24.371Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -22579,7 +22579,7 @@
       "ts": "2026-09-15T23:16:24.371Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -22587,7 +22587,7 @@
       "ts": "2026-09-15T23:16:24.371Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -22595,7 +22595,7 @@
       "ts": "2026-09-15T23:16:24.371Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -22603,7 +22603,7 @@
       "ts": "2026-09-15T23:16:24.371Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -22611,7 +22611,7 @@
       "ts": "2026-09-15T23:16:29.132Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -22619,7 +22619,7 @@
       "ts": "2026-09-15T23:16:33.249Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -22627,7 +22627,7 @@
       "ts": "2026-09-15T23:16:37.076Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -22643,7 +22643,7 @@
       "ts": "2026-09-15T23:16:50.034Z",
       "kind": "computer",
       "type": "computer_use_session",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Computer use"
     },
@@ -22651,7 +22651,7 @@
       "ts": "2026-09-15T23:17:00.355Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -22667,7 +22667,7 @@
       "ts": "2026-09-15T23:18:02.670Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -22675,7 +22675,7 @@
       "ts": "2026-09-15T23:18:12.327Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -22699,7 +22699,7 @@
       "ts": "2026-09-15T23:19:57.828Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -22707,7 +22707,7 @@
       "ts": "2026-09-15T23:20:12.557Z",
       "kind": "computer",
       "type": "computer_use_session",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Computer use"
     },
@@ -22715,7 +22715,7 @@
       "ts": "2026-09-15T23:21:44.548Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -22723,7 +22723,7 @@
       "ts": "2026-09-15T23:21:44.548Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -22731,7 +22731,7 @@
       "ts": "2026-09-15T23:21:44.548Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -22739,7 +22739,7 @@
       "ts": "2026-09-15T23:21:44.548Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -22747,7 +22747,7 @@
       "ts": "2026-09-15T23:21:44.548Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -22755,7 +22755,7 @@
       "ts": "2026-09-15T23:21:44.548Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -22763,7 +22763,7 @@
       "ts": "2026-09-15T23:21:44.548Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -22771,7 +22771,7 @@
       "ts": "2026-09-15T23:21:44.548Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -22779,7 +22779,7 @@
       "ts": "2026-09-15T23:21:44.548Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -22787,7 +22787,7 @@
       "ts": "2026-09-15T23:21:53.178Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -22795,7 +22795,7 @@
       "ts": "2026-09-15T23:22:55.752Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -22803,7 +22803,7 @@
       "ts": "2026-09-15T23:23:04.451Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -22811,7 +22811,7 @@
       "ts": "2026-09-15T23:23:55.724Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -22819,7 +22819,7 @@
       "ts": "2026-09-15T23:24:09.426Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -22827,7 +22827,7 @@
       "ts": "2026-09-15T23:25:47.511Z",
       "kind": "computer",
       "type": "computer_use_session",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Computer use"
     },
@@ -22979,7 +22979,7 @@
       "ts": "2026-09-16T01:03:05.717000Z",
       "kind": "message",
       "type": "boyd_msg",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Boyd"
     },
@@ -22987,7 +22987,7 @@
       "ts": "2026-09-16T01:08:39.455000Z",
       "kind": "message",
       "type": "boyd_msg",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Boyd"
     },
@@ -22995,7 +22995,7 @@
       "ts": "2026-09-16T01:09:21.683Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -23003,7 +23003,7 @@
       "ts": "2026-09-16T01:09:21.683Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -23011,7 +23011,7 @@
       "ts": "2026-09-16T01:09:21.683Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -23019,7 +23019,7 @@
       "ts": "2026-09-16T01:09:21.683Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -23027,7 +23027,7 @@
       "ts": "2026-09-16T01:09:21.683Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -23035,7 +23035,7 @@
       "ts": "2026-09-16T01:09:21.683Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -23043,7 +23043,7 @@
       "ts": "2026-09-16T01:09:21.683Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -23051,7 +23051,7 @@
       "ts": "2026-09-16T01:09:21.683Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -23059,7 +23059,7 @@
       "ts": "2026-09-16T01:09:21.683Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -23067,7 +23067,7 @@
       "ts": "2026-09-16T01:09:21.683Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -23075,7 +23075,7 @@
       "ts": "2026-09-16T01:09:38.414Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -23083,7 +23083,7 @@
       "ts": "2026-09-16T01:09:50.132Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -23091,7 +23091,7 @@
       "ts": "2026-09-16T01:10:02.099Z",
       "kind": "computer",
       "type": "computer_use_session",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Computer use"
     },
@@ -23099,7 +23099,7 @@
       "ts": "2026-09-16T01:10:59.966Z",
       "kind": "computer",
       "type": "computer_use_session",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Computer use"
     },
@@ -23107,7 +23107,7 @@
       "ts": "2026-09-16T01:12:12.651Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -23115,7 +23115,7 @@
       "ts": "2026-09-16T01:12:22.627Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -23123,7 +23123,7 @@
       "ts": "2026-09-16T01:12:32.204Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -23131,7 +23131,7 @@
       "ts": "2026-09-16T01:13:38.013Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -23139,7 +23139,7 @@
       "ts": "2026-09-16T01:13:46.219Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -23147,7 +23147,7 @@
       "ts": "2026-09-16T01:14:22.308Z",
       "kind": "computer",
       "type": "computer_use_session",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Computer use"
     },
@@ -23155,7 +23155,7 @@
       "ts": "2026-09-16T01:19:51.249000Z",
       "kind": "message",
       "type": "boyd_msg",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Boyd"
     },
@@ -23163,7 +23163,7 @@
       "ts": "2026-09-16T01:20:16.393Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -23171,7 +23171,7 @@
       "ts": "2026-09-16T01:20:16.393Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -23179,7 +23179,7 @@
       "ts": "2026-09-16T01:20:20.770Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -23187,7 +23187,7 @@
       "ts": "2026-09-16T01:20:24.543Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -23195,7 +23195,7 @@
       "ts": "2026-09-16T01:20:29.826Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -23203,7 +23203,7 @@
       "ts": "2026-09-16T01:20:56.417Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -23211,7 +23211,7 @@
       "ts": "2026-09-16T01:21:29.027000Z",
       "kind": "message",
       "type": "boyd_msg",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Boyd"
     },
@@ -23219,7 +23219,7 @@
       "ts": "2026-09-16T01:21:45.249Z",
       "kind": "shell",
       "type": "shell_command",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Shell"
     },
@@ -23227,7 +23227,7 @@
       "ts": "2026-09-16T01:21:45.447Z",
       "kind": "shell",
       "type": "shell_command",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Shell"
     },
@@ -23235,7 +23235,7 @@
       "ts": "2026-09-16T01:22:10.067Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -23243,7 +23243,7 @@
       "ts": "2026-09-16T01:22:13.558Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -23251,7 +23251,7 @@
       "ts": "2026-09-16T01:22:20.335Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -23259,7 +23259,7 @@
       "ts": "2026-09-16T01:22:24.489Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -23267,7 +23267,7 @@
       "ts": "2026-09-16T01:22:27.732Z",
       "kind": "computer",
       "type": "computer_use_session",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Computer use"
     },
@@ -23275,7 +23275,7 @@
       "ts": "2026-09-16T01:22:40.628Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -23283,7 +23283,7 @@
       "ts": "2026-09-16T01:23:06.862Z",
       "kind": "computer",
       "type": "computer_use_session",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Computer use"
     },
@@ -23291,7 +23291,7 @@
       "ts": "2026-09-16T01:23:31.826Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -23299,7 +23299,7 @@
       "ts": "2026-09-16T01:23:49.663Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -23323,7 +23323,7 @@
       "ts": "2026-09-16T01:25:52.932Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -23331,7 +23331,7 @@
       "ts": "2026-09-16T01:26:00.762Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -23339,7 +23339,7 @@
       "ts": "2026-09-16T01:26:50.242Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -23347,7 +23347,7 @@
       "ts": "2026-09-16T01:26:56.107Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -23355,7 +23355,7 @@
       "ts": "2026-09-16T01:27:21.067Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -23363,7 +23363,7 @@
       "ts": "2026-09-16T01:27:28.428Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -23371,7 +23371,7 @@
       "ts": "2026-09-16T01:27:28.428Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -23379,7 +23379,7 @@
       "ts": "2026-09-16T01:27:28.428Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -23387,7 +23387,7 @@
       "ts": "2026-09-16T01:27:28.428Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -23395,7 +23395,7 @@
       "ts": "2026-09-16T01:27:28.428Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -23403,7 +23403,7 @@
       "ts": "2026-09-16T01:27:28.428Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -23411,7 +23411,7 @@
       "ts": "2026-09-16T01:27:28.428Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -23419,7 +23419,7 @@
       "ts": "2026-09-16T01:27:28.428Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -23427,7 +23427,7 @@
       "ts": "2026-09-16T01:27:28.428Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -23435,7 +23435,7 @@
       "ts": "2026-09-16T01:27:28.428Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -23443,7 +23443,7 @@
       "ts": "2026-09-16T01:27:35.538Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -23451,7 +23451,7 @@
       "ts": "2026-09-16T01:27:38.802Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -23459,7 +23459,7 @@
       "ts": "2026-09-16T01:27:43.145Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -23467,7 +23467,7 @@
       "ts": "2026-09-16T01:27:50.118Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -23475,7 +23475,7 @@
       "ts": "2026-09-16T01:27:57.776Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Browser"
     },
@@ -23483,7 +23483,7 @@
       "ts": "2026-09-16T01:28:23.754Z",
       "kind": "browser",
       "type": "browser_navigation",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Browser"
     },
@@ -23491,7 +23491,7 @@
       "ts": "2026-09-16T01:28:26.668Z",
       "kind": "computer",
       "type": "computer_use_session",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Computer use"
     },
@@ -23507,7 +23507,7 @@
       "ts": "2026-09-16T01:29:42.906Z",
       "kind": "computer",
       "type": "computer_use_session",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Computer use"
     },
@@ -23531,7 +23531,7 @@
       "ts": "2026-09-16T01:31:52.209000Z",
       "kind": "message",
       "type": "agent_msg",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Message"
     },
@@ -23539,7 +23539,7 @@
       "ts": "2026-09-16T01:31:53.044000Z",
       "kind": "message",
       "type": "agent_msg",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Message"
     },
@@ -23555,7 +23555,7 @@
       "ts": "2026-09-16T01:32:10.816000Z",
       "kind": "message",
       "type": "agent_msg",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Message"
     },
@@ -23571,7 +23571,7 @@
       "ts": "2026-09-16T01:32:17.814000Z",
       "kind": "message",
       "type": "agent_msg",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Message"
     },
@@ -23579,7 +23579,7 @@
       "ts": "2026-09-16T01:32:24.595000Z",
       "kind": "message",
       "type": "agent_msg",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Message"
     },
@@ -23611,7 +23611,7 @@
       "ts": "2026-09-16T01:35:19.523000Z",
       "kind": "message",
       "type": "agent_msg",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Message"
     },
@@ -23619,7 +23619,7 @@
       "ts": "2026-09-16T01:35:21.329000Z",
       "kind": "message",
       "type": "agent_msg",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Message"
     },
@@ -23635,7 +23635,7 @@
       "ts": "2026-09-16T01:35:28.615000Z",
       "kind": "message",
       "type": "agent_msg",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Message"
     },
@@ -23651,7 +23651,7 @@
       "ts": "2026-09-16T01:35:44.169000Z",
       "kind": "message",
       "type": "agent_msg",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
       "detail": "Message"
     },
@@ -23659,7 +23659,7 @@
       "ts": "2026-09-16T01:35:51.603000Z",
       "kind": "message",
       "type": "agent_msg",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
       "detail": "Message"
     },
@@ -24035,9 +24035,9 @@
       "ts": "2026-10-09T00:10:47.279041Z",
       "kind": "routine",
       "type": "routine_touch",
-      "bot": "Vic Tutor",
+      "bot": "Sam Tutor",
       "botId": "7e4990fe-38aa-4d6d-aa6b-c87baad5f8d1",
-      "detail": "Vic weeknight homework check-in"
+      "detail": "Sam weeknight homework check-in"
     },
     {
       "ts": "2026-10-09T00:10:47.279041Z",
@@ -24051,9 +24051,9 @@
       "ts": "2026-10-09T00:10:47.279041Z",
       "kind": "routine",
       "type": "routine_touch",
-      "bot": "Char Tutor",
+      "bot": "Alex Tutor",
       "botId": "ff5dfcd2-09b9-49dd-952f-14893da73ab0",
-      "detail": "Char weeknight homework check-in"
+      "detail": "Alex weeknight homework check-in"
     },
     {
       "ts": "2026-10-09T00:10:47.607041Z",
