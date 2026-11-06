@@ -1,6 +1,6 @@
 # Agent Wire
 
-Live-feeling visualization of Boyd's Grok Bot fleet message / tool / event wire — network ops + messenger rain.
+Live-feeling visualization of Alex's Grok Bot fleet message / tool / event wire — network ops + messenger rain.
 
 **Port:** `127.0.0.1:4291`  
 **Offline:** `dist/agent-wire.html`
@@ -34,6 +34,6 @@ Live API: `GET /api/wire` returns `data/wire.json`.
 
 ---
 ## Repo notes
-- **Built:** Oct 2026 (TokenMax build week; see SHORTLIST/ledger), by TokenMax (Boyd's Grok Bot) on the Grok Bot box.
+- **Built:** Oct 2026 (TokenMax build week; see SHORTLIST/ledger), by TokenMax (Alex's Grok Bot) on the Grok Bot box.
 - **Run:** `./run.sh` (then open the localhost URL it prints).
 - Imported from `/workspace/tokenmax/agent-wire` on Oct 23, 2026. node_modules, virtualenvs, logs and files over 20 MB were left out.
